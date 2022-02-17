@@ -1,0 +1,19 @@
+.place__uri-heading{
+  max-width: 465px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 0.2em;
+}
+@media screen and (min-width: 320px) { 
+    .place__uri-heading{
+      max-width: 228px;
+    }
+  }
+@media screen and (min-width: 768px) { 
+    .place__uri-heading{
+      max-width: 352px;
+    }
+  }
