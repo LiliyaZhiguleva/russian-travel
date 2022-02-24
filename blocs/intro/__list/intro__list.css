@@ -1,14 +1,15 @@
 .intro__list{
-    font-family: Inter;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 18px;
-    max-width: 690px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  list-style-type: none;
+  margin: 0;
 }
-@media screen and (min-weight: 320px) {
+@media screen and (min-weight: px) {
     .intro__list{
-      max-width: 228px;
+      max-width: px;
     }
   }
   @media screen and (min-weight: 768px) {
