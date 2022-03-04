@@ -6,6 +6,7 @@
   line-height: 18px;
   list-style-type: none;
   margin: 0;
+  padding-left: 0;
 }
 @media screen and (min-weight: px) {
     .intro__list{
