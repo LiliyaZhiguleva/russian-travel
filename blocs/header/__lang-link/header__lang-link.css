@@ -8,12 +8,14 @@
   color: white;
   max-width: 22px;
   margin: 0;
+  transition: 1s;
 }
 .header__lang-link:last-child{
   margin-left: 18px;
 }
 .header__lang-link:hover{
-  text-decoration: underline;
+  opacity: 0.8;
+
 }
 
 @media screen and (min-width: 1280px) { 
