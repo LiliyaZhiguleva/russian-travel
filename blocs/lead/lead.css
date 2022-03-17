@@ -5,8 +5,17 @@
   width: 100%;
   margin-top: 48px;
 }
+
+@media screen and (min-width: 1024px) { 
+  .lead{
+    max-width: 928px;
+    margin: 48px
+  }
+}
 @media screen and (min-width: 1280px) { 
   .lead{
     margin: 56px 148px 0 148px;
+    max-width: 984px;
+    margin: 148px;
   }
 }

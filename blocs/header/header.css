@@ -2,25 +2,16 @@
   display: flex;
   justify-content: space-between;
   padding: 16px 16px 0px 16px;
-  max-width: 288px;
-  max-height: 42px;
+  max-width: 100%;
 }
 
 @media screen and (min-width: 768px) { 
   .header{
-    max-width: 720px;
-    max-height: 52px;
     padding: 28px 22px 0 26px;
   }
 }
 @media screen and (min-width: 1024px) { 
   .header{
-    max-width: 928px;
-  }
-}
-@media screen and (min-width: 1280px) { 
-  .header{
-    max-width: 1184px;
     padding: 28px 48px 0 48px;
   }
 }

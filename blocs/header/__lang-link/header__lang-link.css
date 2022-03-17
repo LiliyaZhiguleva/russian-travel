@@ -1,14 +1,13 @@
 .header__lang-link{
   text-decoration: none;
-  font-family: Inter;
   font-style: normal;
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 28px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 111%;
   color: white;
   max-width: 22px;
   margin: 0;
-  transition: 1s;
+  transition: 0.5s;
 }
 .header__lang-link:last-child{
   margin-left: 18px;
@@ -18,8 +17,10 @@
 
 }
 
-@media screen and (min-width: 1280px) { 
+@media screen and (min-width: 768px) { 
   .header__lang-link{
     max-width: 30px;
+    font-size: 24px;
+    line-height: 117%;
   }
 }
