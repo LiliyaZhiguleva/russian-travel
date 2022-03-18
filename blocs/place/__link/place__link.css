@@ -1,13 +1,12 @@
 .place__link{
   color: white;
   max-width: 288px;
-  font-family: Inter;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 122%;
   text-decoration-line: underline;
-  transition: 1s;
+  transition: 0.5s;
 }
 .place__link:hover{
   opacity: 0.8;
