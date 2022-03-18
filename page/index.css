@@ -29,6 +29,7 @@
 @import url(../blocs/place/__website/place__website.css);
 @import url(../blocs/cover/cover.css);
 @import url(../blocs/cover/__overlay/cover__overlay.css);
+@import url(../blocs/cover/__background/cover__background.css);
 @import url(../blocs/cover/__subtitle/cover__subtitle.css);
 @import url(../blocs/cover/__title/cover__title.css);
 @import url(../blocs/footer/footer.css);
