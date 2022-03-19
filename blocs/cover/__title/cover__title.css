@@ -12,20 +12,20 @@
 @media screen and (min-width: 768px) { 
     .cover__title{
       max-width: calc(100% - 104px * 2);
-      margin-left: 104px;
       font-size: 72px;
       line-height: 106%;
+      margin-top: 115px;
     }
   }
   @media screen and (min-width: 1024px) { 
     .cover__title{
       max-width: calc(100% - 232px * 2);
-      margin-left: 232px;
+      margin-top: 195px;
     }
   }
   @media screen and (min-width: 1280px) { 
     .cover__title{
       max-width: calc(100% - 312px * 2);
-      margin-left: 312px;
+      margin-top: 245px;
     }
   }

@@ -3,6 +3,11 @@
 }
 @media screen and (min-width: 1024px) { 
     .cover{
-      margin: 0 48px 92px 48px;
+      padding: 17px 48px 92px 48px;
+    }
+  }
+@media screen and (min-width: 1024px) { 
+    .cover{
+      padding-top: 25px;
     }
   }

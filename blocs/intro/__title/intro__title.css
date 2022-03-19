@@ -5,14 +5,9 @@
   line-height: 109%;
   margin: 0 0 40px 0;
 }
-@media screen and (min-weight: 768px) {
+@media screen and (min-width: 768px) {
   .intro__title{
     font-size: 54px;
     line-height: 107%;
-  }
-}
-@media screen and (min-weight: 1024px) {
-  .intro__title{
-    max-width: px;
   }
 }
